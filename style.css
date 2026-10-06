@@ -9,7 +9,7 @@
     }
     
     body {
-       background-color: #C9FFF6;
+       background-color: #FFCFFB;
     }
     
     /* mengubah div menjadi tampilan kartu */
@@ -29,7 +29,7 @@
     }
     
     .navigasi {
-       background-color: #FFC9F1;
+       background-color: #FFC9F8;
        padding: 10px;
        text-align: center;
        border-radius: 10px;
@@ -101,16 +101,4 @@
     .galeri-item p {
        padding: 0px;
        line-height: 0.5;
-    }
-    
-    .navigasi-peminjaman {
-       background-color: #A8D5FF;
-       padding: 10px;
-       text-align: center;
-       border-radius: 10px;
-       /*rata tengah horizontal*/
-       margin: 0 auto;
-       padding: 10px;
-       /* sudut kotak tumpul*/
-       border-radius: 10px;
     }
